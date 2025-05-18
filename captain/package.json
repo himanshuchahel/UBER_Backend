@@ -1,0 +1,21 @@
+{
+  "name": "uber-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "amqplib": "^0.10.8",
+    "express": "^5.1.0",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.14.3",
+    "morgan": "^1.10.0",
+    "router": "^2.2.0"
+  }
+}
